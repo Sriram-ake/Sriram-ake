@@ -1,13 +1,13 @@
-<!-- ======================= TOP BANNER ======================= -->
+<!-- ====================== TOP BANNER ====================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=250&section=header&text=Sri%20Ram&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- ======================= TYPING EFFECT ======================= -->
+<!-- ====================== TYPING EFFECT ====================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Passionate+Web+Developer;💻+Java+Programmer;🌱+Full+Stack+Learner;🔥+Problem+Solver;⚡+Always+Learning+New+Things&center=true&width=750&height=55&color=58A6FF&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🚀+Passionate+Web+Developer;💻+Java+Programmer;🌱+Full+Stack+Learner;🔥+Problem+Solver;⚡+Always+Learning+New+Things"/>
 </p>
 
 ---
@@ -27,8 +27,8 @@
 - 🎓 B.Tech Student
 - 💻 Passionate about Web Development
 - 🌱 Currently learning JavaScript, Java & SQL
-- 🚀 Building Projects and Improving Problem Solving Skills
-- ⚡ Exploring New Technologies Daily
+- 🚀 Building Projects and Improving Daily
+- ⚡ Exploring New Technologies
 - 🔥 Love Competitive Programming
 
 <br><br><br>
@@ -49,7 +49,7 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriram-ake&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriram-ake&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-ake&layout=compact&theme=tokyonight"/>
 
@@ -126,14 +126,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## ⚡ Fun Zone
 
 <p align="center">
@@ -157,7 +149,7 @@ it comes from what you do consistently.” ✨
 ⭐ Keep Learning • Keep Building • Keep Growing ⭐
 </h3>
 
-<!-- ======================= BOTTOM BANNER ======================= -->
+<!-- ====================== BOTTOM BANNER ====================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
