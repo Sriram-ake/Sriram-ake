@@ -1,13 +1,13 @@
-<!-- TOP BANNER -->
+<!-- ======================= TOP BANNER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=250&section=header&text=Sri%20Ram&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=250&section=header&text=Sri%20Ram&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- ======================= TYPING EFFECT ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Web+Developer;Java+Programmer;Problem+Solver;Full+Stack+Developer+in+Progress;Always+Learning+New+Things&center=true&width=700&height=50&color=58A6FF&size=28">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Passionate+Web+Developer;💻+Java+Programmer;🌱+Full+Stack+Learner;🔥+Problem+Solver;⚡+Always+Learning+New+Things&center=true&width=750&height=55&color=58A6FF&size=30">
 </p>
 
 ---
@@ -22,11 +22,16 @@
 
 ## 🌟 About Me
 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 - 🎓 B.Tech Student
-- 💻 Passionate about Full Stack Web Development
+- 💻 Passionate about Web Development
 - 🌱 Currently learning JavaScript, Java & SQL
-- 🚀 Building Projects and Improving Daily
-- ⚡ Love Exploring New Technologies
+- 🚀 Building Projects and Improving Problem Solving Skills
+- ⚡ Exploring New Technologies Daily
+- 🔥 Love Competitive Programming
+
+<br><br><br>
 
 ---
 
@@ -34,27 +39,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,mysql,git,github,vscode"/>
 
 </p>
 
@@ -80,7 +65,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 What These Stats Mean
+
+<p align="center">
+
+📁 Repositories → My uploaded projects <br>
+🔥 Streak → My coding consistency <br>
+💻 Languages → Technologies I use most <br>
+🚀 Contributions → My GitHub activity growth
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sriram-ake&theme=tokyonight&row=1&column=6"/>
@@ -128,20 +126,39 @@
 
 ---
 
-## ⚡ Fun Zone
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
+## ⚡ Fun Zone
+
 <p align="center">
-⭐ Keep Learning • Keep Building • Keep Growing ⭐
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
-<!-- BOTTOM BANNER -->
+---
+
+## 💡 Quote Of The Day
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=120&section=footer"/>
+
+✨ “Success doesn’t come from what you do occasionally,  
+it comes from what you do consistently.” ✨
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Keep Learning • Keep Building • Keep Growing ⭐
+</h3>
+
+<!-- ======================= BOTTOM BANNER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
 </p>
