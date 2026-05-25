@@ -1,20 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sri Ram</h1>
-
-<h3 align="center">🚀 Passionate Web Developer | Java Learner | B.Tech Student</h3>
+<!-- TOP BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+in+Progress;Java+Programmer;Frontend+Developer;Problem+Solver;Always+Learning+New+Things&center=true&width=600&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=250&section=header&text=Sri%20Ram&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+<!-- TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Web+Developer;Java+Programmer;Problem+Solver;Full+Stack+Developer+in+Progress;Always+Learning+New+Things&center=true&width=700&height=50&color=58A6FF&size=28">
+</p>
+
+---
+
+<h1 align="center">Hi 👋, I'm Sri Ram</h1>
+
+<h3 align="center">
+🚀 B.Tech Student | Web Developer | Java Learner
+</h3>
 
 ---
 
 ## 🌟 About Me
 
 - 🎓 B.Tech Student
-- 💻 Passionate about Web Development
-- 🌱 Currently learning JavaScript, Java & Full Stack Development
-- 🚀 Improving Problem Solving Skills Daily
-- ⚡ Exploring New Technologies and Building Projects
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently learning JavaScript, Java & SQL
+- 🚀 Building Projects and Improving Daily
+- ⚡ Love Exploring New Technologies
 
 ---
 
@@ -51,7 +63,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriram-ake&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriram-ake&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-ake&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -64,10 +80,10 @@
 
 ---
 
-## 💻 Top Languages Card
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-ake&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sriram-ake&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -104,22 +120,28 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sriram-ake&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sriram-ake&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Sriram-ake&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+## ⚡ Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ “Keep Learning, Keep Building, Keep Growing.” ⭐
+⭐ Keep Learning • Keep Building • Keep Growing ⭐
+</p>
+
+<!-- BOTTOM BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=120&section=footer"/>
 </p>
