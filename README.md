@@ -45,18 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sriram-ake&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-ake&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
@@ -65,15 +53,10 @@
 
 ---
 
-## 📈 What These Stats Mean
+## 🐍 Contribution Snake
 
 <p align="center">
-
-📁 Repositories → My uploaded projects <br>
-🔥 Streak → My coding consistency <br>
-💻 Languages → Technologies I use most <br>
-🚀 Contributions → My GitHub activity growth
-
+  <img src="https://raw.githubusercontent.com/Sriram-ake/Sriram-ake/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
