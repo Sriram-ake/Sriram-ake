@@ -1,103 +1,442 @@
-<!-- ==================== HEADER ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:8A2BE2&height=200&section=header&text=Ake%20Sri%20Ram&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20IT%20%C2%B7%20Java%20Developer%20%C2%B7%20Full%20Stack%20%26%20DSA&descAlignY=58&descSize=16&descColor=f5f5f5" width="100%"/>
-</div>
+<!-- ====================== TOP MISSION ====================== -->
 
-<div align="center">
-  <a href="https://github.com/Sriram-ake">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=620&lines=Java+Programmer;DSA+Problem+Solver;Full+Stack+Developer+in+Progress;Always+Learning+%26+Building" alt="Typing SVG"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mission-Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Grow-6A5ACD?style=for-the-badge&logo=target&logoColor=white"/>
+</p>
 
-<br/>
+<h2 align="center">
+Turning ideas into working applications.<br>
+Learning, building, solving problems, and growing every day. 🚀
+</h2>
 
-<!-- ==================== ABOUT ==================== -->
-## 👨‍💻 About Me
+<p align="center">
+<i>"Learn with curiosity. Code with purpose. Build with consistency."</i>
+</p>
 
-B.Tech Information Technology student at **Aditya College of Engineering and Technology**, focused on **Java**, **Data Structures & Algorithms**, and **Full Stack Development**. I like turning ideas into working applications and sharpening my problem-solving through consistent daily practice.
-
-- 🔭 Building full-stack projects with `HTML` · `CSS` · `JavaScript` · `Java` · `SQL`
-- 🧠 Practicing DSA — arrays, strings, hashing, stacks, queues, binary search, recursion
-- 🌱 Currently leveling up in JavaScript and backend fundamentals
-- 🎯 Goal — write clean, efficient code and ship real-world applications
-
-<br/>
-
-<!-- ==================== TECH STACK ==================== -->
-## 🛠️ Tech Stack
+<!-- ====================== TOP BANNER ====================== -->
 
 <div align="center">
 
-`Languages`
-
-<img src="https://skillicons.dev/icons?i=java,cpp,js" alt="Languages"/>
-
-`Frontend & Database`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql" alt="Frontend and Database"/>
-
-`Developer Tools`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=220&section=header&text=AKE%20SRI%20RAM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%E2%80%A2%20DSA%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20Problem%20Solving&descAlignY=62&descSize=17&descColor=eeeeee" width="100%"/>
 
 </div>
 
+<!-- ====================== TYPING EFFECT ====================== -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&color=00E7FF&lines=Java+Programmer;DSA+Problem+Solver;Full+Stack+Developer+in+Progress;Web+Developer;Always+Learning+Something+New" alt="Typing SVG"/>
+</p>
+
+---
+
+# 👋 Hi, I'm Sri Ram
+
+<h3 align="center">
+B.Tech Information Technology Student | Java Programmer | Full Stack Learner
+</h3>
+
+---
+
+## 🧭 The Short Version
+
 <br/>
 
-<!-- ==================== EXPERIENCE ==================== -->
-## 🏆 Internships & Achievements
+<table align="center">
+<tr>
+
+<td align="center" width="250">
+<h1>🎓</h1>
+<h3>IT Student</h3>
+Aditya College of Engineering and Technology
+</td>
+
+<td align="center" width="250">
+<h1>💻</h1>
+<h3>Programming</h3>
+Java • C++ • DSA
+</td>
+
+<td align="center" width="250">
+<h1>🌐</h1>
+<h3>Building</h3>
+Full Stack Applications
+</td>
+
+<td align="center" width="250">
+<h1>🔥</h1>
+<h3>Focused On</h3>
+Problem Solving
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🌟 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🎓 B.Tech Information Technology student
+- 🏫 Aditya College of Engineering and Technology
+- 💻 Passionate about Full Stack Development
+- ☕ Focused on Java Programming
+- 🧠 Practicing Data Structures & Algorithms
+- 🌐 Learning JavaScript and Full Stack Development
+- 🗄️ Working with SQL and databases
+- 🚀 Building projects to improve practical skills
+- 🔥 Interested in competitive programming and problem solving
+- 🌱 Always learning and exploring new technologies
+
+<br clear="right"/>
+
+---
+
+## 🧠 What I'm Deep Into Right Now
 
 <div align="center">
 
-| Program | Focus |
-| :-- | :-- |
-| **Red Hat** | Hands-on professional experience |
-| **IDM** | HTML & CSS — frontend fundamentals |
-| **APSCHCC** | Practical industry exposure |
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+&nbsp;
+
+![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-6A5ACD?style=for-the-badge)
+
+&nbsp;
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br/>
+
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+&nbsp;
+
+![Full Stack](https://img.shields.io/badge/-Full%20Stack%20Development-00E7FF?style=for-the-badge&logoColor=black)
+
+&nbsp;
+
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6F00?style=for-the-badge)
 
 </div>
 
 <br/>
 
-<!-- ==================== STATS ==================== -->
-## 📊 GitHub Stats
+---
+
+## 🎯 Current Focus
+
+✔ Java Programming
+
+✔ Data Structures & Algorithms
+
+✔ Full Stack Development
+
+✔ JavaScript
+
+✔ SQL & Database Management
+
+✔ Problem Solving
+
+✔ Building Real-World Projects
+
+✔ Improving Coding Consistency
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+### 🗄️ Database
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🛠️ Developer Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 Achievements & Internships
+
+### 🏅 Redahat
+
+Completed an internship/experience with **Redahat**, gaining practical exposure and professional experience.
+
+### 🌐 IDM — HTML & CSS
+
+Completed an **HTML & CSS internship with IDM**, strengthening frontend web development fundamentals.
+
+### 💻 APSCHCC
+
+Completed an **internship with APSCHCC**, gaining practical exposure and professional learning.
+
+---
+
+## 🚀 What I'm Building
+
+### 🌐 Full Stack Development
+
+Currently focusing on developing full-stack applications using:
+
+`HTML` `CSS` `JavaScript` `Java` `SQL`
+
+My goal is to move from learning individual technologies to building complete and useful applications.
+
+---
+
+## 🧩 Problem Solving
+
+I regularly practice:
+
+`Data Structures`
+
+`Algorithms`
+
+`Arrays`
+
+`Strings`
+
+`HashMap`
+
+`Prefix Sum`
+
+`Stack`
+
+`Queue`
+
+`Binary Search`
+
+`Recursion`
+
+### 🎯 My Goal
+
+To continuously improve my problem-solving ability and become stronger at writing efficient and clean code.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sriram-ake&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00E7FF&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-ake&layout=compact&hide_border=true&title_color=00E7FF&text_color=c9d1d9&bg_color=0D1117" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sriram-ake&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=430" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-ake&theme=blueberry&hide_border=false&layout=compact&card_width=430" width="42%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Sriram-ake&hide_border=true&background=0D1117&stroke=30363d&ring=00E7FF&fire=8A2BE2&currStreakLabel=00E7FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
-
-</div>
-
-<br/>
-
-<!-- ==================== CONNECT ==================== -->
-## 🌐 Connect & Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/Sriram-ake"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF"/></a>
-<a href="https://leetcode.com/u/akesriram/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://www.codechef.com/users/akesriram_2007"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=E5A00D"/></a>
-<a href="https://codeforces.com/profile/Sriram_2007"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>
-<a href="https://www.hackerrank.com/profile/akesurekha"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
-<a href="https://www.geeksforgeeks.org/user/akesriram/"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/></a>
+<img src="https://streak-stats.demolab.com/?user=Sriram-ake&theme=blueberry" width="70%"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sriram-ake&style=flat-square&color=00E7FF&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sriram-ake&style=for-the-badge&color=00E7FF&label=Profile+Views" height="35"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sriram-ake&theme=algolia&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&row=2" width="80%"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram-ake&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+# 💭 Motivation
+
+<br/>
+
+<div align="center">
+
+<h1>
+"Motivation is what gets you started.<br>
+Habit is what keeps you going."
+</h1>
+
+<h3>— Jim Rohn</h3>
 
 </div>
 
 <br/>
 
-<!-- ==================== FOOTER ==================== -->
+---
+
+## 🌟 My Development Journey
+
+<table align="center">
+<tr>
+
+<td align="center" width="220">
+<h2>🧠</h2>
+<b>Learn</b>
+<br/>
+Understand new concepts
+</td>
+
+<td align="center" width="220">
+<h2>💻</h2>
+<b>Code</b>
+<br/>
+Practice through problems
+</td>
+
+<td align="center" width="220">
+<h2>🚀</h2>
+<b>Build</b>
+<br/>
+Create real applications
+</td>
+
+<td align="center" width="220">
+<h2>📈</h2>
+<b>Grow</b>
+<br/>
+Improve every day
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Sriram-ake">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/akesriram/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/akesriram_2007">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/Sriram_2007">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/akesurekha">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/akesriram/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sriram-ake&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚡ Fun Zone
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+
+</p>
+
+---
+
+## 💡 Quote Of The Day
+
+<p align="center">
+
+✨ **"Success doesn't come from what you do occasionally, it comes from what you do consistently."** ✨
+
+</p>
+
+---
+
+## 🤝 Let's Build Something Amazing Together
+
 <div align="center">
-  <i>Learn with curiosity · Code with purpose · Build with consistency.</i>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&width=700&color=00FFAA&lines=Always+Learning!;Always+Building!;Let's+Build+Something+Amazing!" alt="Connect Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://github.com/Sriram-ake">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+</a>
+
+&nbsp;
+
+<a href="https://leetcode.com/u/akesriram/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.codechef.com/users/akesriram_2007">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="45"/>
+</a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00E7FF&height=120&section=footer" width="100%"/>
+---
+
+<h3 align="center">
+⭐ Learn • Code • Build • Solve • Grow ⭐
+</h3>
+
+<p align="center">
+<i>Building my skills today to create better solutions tomorrow.</i>
+</p>
+
+<!-- ====================== FOOTER ====================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
